@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedicineCabinetApp</string>
+    <string name="tab_title_1">1</string>
+    <string name="tab_title_2">2</string>
+</resources>
